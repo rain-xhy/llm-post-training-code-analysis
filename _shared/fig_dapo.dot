@@ -1,0 +1,18 @@
+digraph G {
+  rankdir=TB; nodesep=0.35; ranksep=0.4;
+  node [shape=box, style="rounded,filled", fillcolor="#eef3f9", fontname="Microsoft YaHei", fontsize=12, margin="0.15,0.08"];
+  edge [fontname="Microsoft YaHei", fontsize=10];
+  p [label="提示批\n按 rollout.n 复制为生成批\ndapo_ray_trainer.py 第 157 至 163 行"];
+  g [label="vLLM 生成回答\n温度 1.0，top_p 1.0"];
+  u [label="分配 uid 并与生成结果合并\n分组依赖 uid 而非相邻位置\n第 198 至 203 行"];
+  r [label="规则奖励\nextract_reward 写入 token_level_scores\n第 220 至 238 行"];
+  d [label="动态采样\n组内标准差大于 0 才保留\n第 240 至 299 行", fillcolor="#fdf1dc"];
+  m [label="均衡数据并行批次\n重算旧策略对数概率\n第 309 至 313 行与第 55 至 56 行"];
+  a [label="优势估计 grpo\n不创建价值网络\n第 333 至 344 行"];
+  t [label="actor 更新\n一步 16 次参数更新\n第 357 行"];
+  w [label="权重同步到生成引擎\n第 375 行"];
+  p -> g -> u -> r -> d;
+  d -> g [label="不足 train_batch_size 个提示\n继续生成", style=dashed, constraint=false];
+  d -> m [label="凑够后截断"];
+  m -> a -> t -> w;
+}

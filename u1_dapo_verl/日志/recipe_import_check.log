@@ -1,0 +1,8 @@
+== _repos/verl-recipe_dapo/dapo/dapo_ray_trainer.py
+  模块不存在: verl.utils.rollout_skip ['RolloutSkip']
+  (检查完毕)
+== _repos/verl-recipe_dapo/dapo/main_dapo.py
+  名字未找到: verl.trainer.main_ppo TaskRunner
+  名字未找到: verl.trainer.main_ppo create_rl_dataset
+  名字未找到: verl.trainer.main_ppo create_rl_sampler
+  (检查完毕)

@@ -1,0 +1,6 @@
+bos_token_id: None eos_token_id: 151645
+prompt_input_ids [None, 16, 10, 16, 28]
+chosen_input_ids [None, 16, 10, 16, 28, 220, 17, 151645]
+rejected_input_ids [None, 16, 10, 16, 28, 220, 18, 151645]
+chosen_labels [-100, -100, -100, -100, -100, 220, 17, 151645]
+含 None 的键: ['chosen_input_ids', 'rejected_input_ids', 'prompt_input_ids']

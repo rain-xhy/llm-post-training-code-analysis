@@ -1,0 +1,14 @@
+# 大体积的外部材料不入库
+_models/
+_repos/
+_papers/
+_lit2/
+_refsurveys/
+grpo_minimal/_site/
+_out/
+__pycache__/
+*.pyc
+*.pdf
+# 分析笔记与备份不入库，仓库只保留脚本与日志
+*.md
+!README.md

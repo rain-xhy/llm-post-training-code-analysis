@@ -1,0 +1,22 @@
+digraph G {
+  rankdir=TB; nodesep=0.35; ranksep=0.9; compound=true;
+  node [shape=box, style="rounded,filled", fillcolor="#eef3f9", fontname="Microsoft YaHei", fontsize=13, margin="0.18,0.12"];
+  edge [fontname="Microsoft YaHei", fontsize=11];
+  subgraph cluster_a { label="偏好优化线"; style=dashed; fontname="Microsoft YaHei"; fontsize=15;
+    { rank=same;
+      u5 [label="u5 InstructGPT\nTRL PPOTrainer / trlx\n缺 PPO-ptx，价值头不由奖励模型初始化"];
+      u4 [label="u4 DPO\nTRL v0.9.6\n求和对数比，需要参考项"];
+      u6 [label="u6 SimPO\n官方仓库\n均值对数概率，无参考项"]; }
+    u5 -> u4 [label="去掉奖励模型与采样"];
+    u4 -> u6 [label="换奖励尺度，去参考项"];
+  }
+  subgraph cluster_b { label="推理在线强化学习线"; style=dashed; fontname="Microsoft YaHei"; fontsize=15;
+    { rank=same;
+      g [label="GRPO 启动实验\nTRL 0.14.0\n全错组优势为 0"];
+      u2 [label="u2 DeepSeek-R1\nOpen-R1 / ORZ\n奖励定义不同，归一化实为除以 1"];
+      u1 [label="u1 DAPO\nveRL + 配方\n行为由配置、聚合与版本共同决定"];
+      u3 [label="u3 Kimi K2.5\nPARL / OpenKimi\n仅有奖励函数，Toggle 无实现"]; }
+    g -> u2 -> u1 -> u3 [style=invis];
+  }
+  u4 -> u2 [style=invis];
+}

@@ -1,0 +1,38 @@
+=== 开始 2026-10-30 11:06:36 ===
+Cloning into 'E:/desktop/北大软微/课程/大语言模型应用与实践/作业/13/代码/part2_code_analysis/_repos/trl'...
+Note: switching to '314e8eb367cbfaf74c2e9717085346360e779508'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+[成功] trl url=https://github.com/huggingface/trl.git ref=v0.9.6 commit=314e8eb367cbfaf74c2e9717085346360e779508 commit_date=2024-07-08T15:41:36+02:00 fetched=2026-10-30
+Cloning into 'E:/desktop/北大软微/课程/大语言模型应用与实践/作业/13/代码/part2_code_analysis/_repos/verl'...
+Updating files:  55% (726/1302)Updating files:  56% (730/1302)Updating files:  57% (743/1302)Updating files:  58% (756/1302)Updating files:  59% (769/1302)Updating files:  60% (782/1302)Updating files:  61% (795/1302)Updating files:  62% (808/1302)Updating files:  63% (821/1302)Updating files:  64% (834/1302)Updating files:  65% (847/1302)Updating files:  66% (860/1302)Updating files:  67% (873/1302)Updating files:  68% (886/1302)Updating files:  69% (899/1302)Updating files:  70% (912/1302)Updating files:  71% (925/1302)Updating files:  72% (938/1302)Updating files:  73% (951/1302)Updating files:  74% (964/1302)Updating files:  75% (977/1302)Updating files:  76% (990/1302)Updating files:  77% (1003/1302)Updating files:  78% (1016/1302)Updating files:  79% (1029/1302)Updating files:  80% (1042/1302)Updating files:  81% (1055/1302)Updating files:  82% (1068/1302)Updating files:  83% (1081/1302)Updating files:  84% (1094/1302)Updating files:  85% (1107/1302)Updating files:  86% (1120/1302)Updating files:  87% (1133/1302)Updating files:  88% (1146/1302)Updating files:  89% (1159/1302)Updating files:  90% (1172/1302)Updating files:  91% (1185/1302)Updating files:  92% (1198/1302)Updating files:  93% (1211/1302)Updating files:  94% (1224/1302)Updating files:  95% (1237/1302)Updating files:  96% (1250/1302)Updating files:  97% (1263/1302)Updating files:  98% (1276/1302)Updating files:  99% (1289/1302)Updating files: 100% (1302/1302)Updating files: 100% (1302/1302), done.
+[成功] verl url=https://github.com/volcengine/verl.git ref=默认分支 commit=a08ea02a784d7d4982b1d81df36d188a476192bb commit_date=2026-10-29T20:18:16+08:00 fetched=2026-10-30
+Cloning into 'E:/desktop/北大软微/课程/大语言模型应用与实践/作业/13/代码/part2_code_analysis/_repos/SimPO'...
+[成功] SimPO url=https://github.com/princeton-nlp/SimPO.git ref=默认分支 commit=1b3e8f3528a23bce3da514a2dce8ea7490d4bc75 commit_date=2025-02-15T22:55:07-05:00 fetched=2026-10-30
+Cloning into 'E:/desktop/北大软微/课程/大语言模型应用与实践/作业/13/代码/part2_code_analysis/_repos/trlx'...
+[成功] trlx url=https://github.com/CarperAI/trlx.git ref=默认分支 commit=3340c2f3a56d1d14fdd5f13ad575121fa26b6d92 commit_date=2024-01-09T04:07:18+08:00 fetched=2026-10-30
+Cloning into 'E:/desktop/北大软微/课程/大语言模型应用与实践/作业/13/代码/part2_code_analysis/_repos/open-r1'...
+[成功] open-r1 url=https://github.com/huggingface/open-r1.git ref=默认分支 commit=5b6ff22b3fb7aa069c54866e517f39dfc3160e09 commit_date=2026-10-02T03:57:37+00:00 fetched=2026-10-30
+Cloning into 'E:/desktop/北大软微/课程/大语言模型应用与实践/作业/13/代码/part2_code_analysis/_repos/Open-Reasoner-Zero'...
+[成功] Open-Reasoner-Zero url=https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero.git ref=默认分支 commit=3fdd9a07b4fb01e06005e6e74fc56690cde8a341 commit_date=2025-06-03T00:35:57+08:00 fetched=2026-10-30
+Cloning into 'E:/desktop/北大软微/课程/大语言模型应用与实践/作业/13/代码/part2_code_analysis/_repos/PARL'...
+[成功] PARL url=https://github.com/The-Swarm-Corporation/PARL.git ref=默认分支 commit=2f984bd1537116529968358bd2babd7f6e403460 commit_date=2026-03-24T11:54:21-04:00 fetched=2026-10-30
+Cloning into 'E:/desktop/北大软微/课程/大语言模型应用与实践/作业/13/代码/part2_code_analysis/_repos/OpenKimi'...
+[成功] OpenKimi url=https://github.com/horizon-rl/OpenKimi.git ref=默认分支 commit=737515818bf950e0c3f3ee2483ae0c53be435385 commit_date=2026-04-09T14:40:50-04:00 fetched=2026-10-30
+Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]Fetching 7 files:  14%|█▍        | 1/7 [00:01<00:10,  1.76s/it]Fetching 7 files:  29%|██▊       | 2/7 [00:03<00:07,  1.47s/it]Fetching 7 files:  43%|████▎     | 3/7 [00:06<00:08,  2.19s/it]Fetching 7 files:  57%|█████▋    | 4/7 [06:15<07:20, 146.97s/it]Fetching 7 files: 100%|██████████| 7/7 [06:15<00:00, 53.57s/it] 
+[成功] 模型 Qwen2.5-0.5B-Instruct -> E:\desktop\北大软微\课程\大语言模型应用与实践\作业\13\代码\part2_code_analysis\_models\Qwen2.5-0.5B-Instruct
+=== 结束 2026-10-30 11:14:11 ===

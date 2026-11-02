@@ -1,0 +1,72 @@
+2407.16216	2024-07-23	Reinforcement Learning for LLM Post-Training: A Survey	Zhichao Wang; Kiran Ramnath; Bin Bi 等
+2503.06072	2025-03-08	A Survey on Post-training of Large Language Models	Guiyao Tie; Zeli Zhao; Dingjie Song 等
+2505.02686	2025-05-05	Sailing by the Stars: A Survey on Reward Models and Learning Strategies for Learning from Rewards	Xiaobao Wu
+2507.04136	2025-07-05	A Technical Survey of Reinforcement Learning Techniques for Large Language Models	Saksham Sahai Srivastava; Vaneet Aggarwal
+2511.03939	2025-11-06	RLHF: A comprehensive Survey for Cultural, Multimodal and Low Latency Alignment Methods	Raghav Sharma; Manan Mehta; Sai Tiger Raina
+2203.02155	2022-03-04	Training language models to follow instructions with human feedback	Long Ouyang; Jeff Wu; Xu Jiang 等
+2305.18290	2023-05-29	Direct Preference Optimization: Your Language Model is Secretly a Reward Model	Rafael Rafailov; Archit Sharma; Eric Mitchell 等
+2405.14734	2024-05-23	SimPO: Simple Preference Optimization with a Reference-Free Reward	Yu Meng; Mengzhou Xia; Danqi Chen
+2402.03300	2024-02-05	DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models	Zhihong Shao; Peiyi Wang; Qihao Zhu 等
+2501.12948	2025-01-22	DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning	 DeepSeek-AI; Daya Guo; Dejian Yang 等
+2602.02276	2026-02-02	Kimi K2.5: Visual Agentic Intelligence	 Kimi Team; Tongtong Bai; Yifan Bai 等
+2503.14476	2025-03-18	DAPO: An Open-Source LLM Reinforcement Learning System at Scale	Qiying Yu; Zheng Zhang; Ruofei Zhu 等
+2502.01456	2025-02-03	Process Reinforcement through Implicit Rewards	Ganqu Cui; Lifan Yuan; Zefan Wang 等
+2503.20783	2025-03-26	Understanding R1-Zero-Like Training: A Critical Perspective	Zichen Liu; Changyu Chen; Wenjun Li 等
+2504.16084	2025-04-22	TTRL: Test-Time Reinforcement Learning	Yuxin Zuo; Kaiyan Zhang; Li Sheng 等
+2608.17528	2026-08-18	Agent Lightning v1.0: Towards Harnessed Agentic RL	Zhiyuan He; Siwei Zhang; Zhiwen Zhou 等
+2506.06122	2025-06-06	Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library	Weixun Wang; Shaopan Xiong; Gengru Chen 等
+2505.24298	2025-05-30	AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning	Wei Fu; Jiaxuan Gao; Xujie Shen 等
+2502.04463	2025-02-06	Training Language Models to Reason Efficiently	Daman Arora; Andrea Zanette
+2505.20258	2025-05-26	ARM: Adaptive Reasoning Model	Siye Wu; Jian Xie; Yikai Zhang 等
+2502.18080	2025-02-25	Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning	Wenkai Yang; Shuming Ma; Yankai Lin 等
+2511.02130	2025-11-03	Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning	Renos Zabounidis; Aditya Golatkar; Michael Kleinman 等
+2609.37326	2026-09-29	Solving Without Stopping: On-Policy Distillation at Small Scale	Hongyang Li; Yiming Zhu; Xiao Li 等
+2506.19733	2025-06-24	Breaking Barriers: Do Reinforcement Post Training Gains Transfer To Unseen Domains?	Chuxuan Hu; Yuxuan Zhu; Antony Kellermann 等
+2506.18254	2025-06-23	RLPR: Extrapolating RLVR to General Domains without Verifiers	Tianyu Yu; Bo Ji; Shouli Wang 等
+2603.08660	2026-03-09	How Far Can Unsupervised RLVR Scale LLM Training?	Bingxiang He; Yuxin Zuo; Zeyuan Liu 等
+2601.18533	2026-01-26	From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation	Yuxin Jiang; Yufei Wang; Qiyuan Zhang 等
+2511.21667	2025-11-26	Escaping the Verifier: Learning to Reason via Demonstrations	Locke Cai; Max Ryabinin; Ivan Provilkov
+2504.13837	2025-04-18	Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?	Yang Yue; Zhiqi Chen; Rui Lu 等
+2506.14245	2025-06-17	Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs	Xumeng Wen; Zihan Liu; Shun Zheng 等
+2511.19942	2025-11-25	Differential Smoothing Mitigates Sharpening and Improves LLM Reasoning	Jingchu Gai; Guanning Zeng; Huaqing Zhang 等
+2508.11408	2025-08-15	On-Policy RL Meets Off-Policy Experts: Harmonizing Supervised Fine-Tuning and Reinforcement Learning via Dynamic Weighting	Wenhao Zhang; Yuexiang Xie; Yuchang Sun 等
+2505.09388	2025-05-14	Qwen3 Technical Report	An Yang; Anfeng Li; Baosong Yang 等
+2608.05802	2026-08-06	On-Policy Delta Distillation for Multilingual Math Reasoning	Byeongho Heo; Jaehui Hwang; Sangdoo Yun 等
+2501.12599	2025-01-22	Kimi k1.5: Scaling Reinforcement Learning with LLMs	 Kimi Team; Angang Du; Bofei Gao 等
+2505.15612	2025-05-21	Learn to Reason Efficiently with Adaptive Length-based Reward Shaping	Wei Liu; Ruochen Zhou; Yiyun Deng 等
+2506.05256	2025-06-05	Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning	Violet Xiang; Chase Blagden; Rafael Rafailov 等
+2505.18822	2025-05-24	AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting	Shijue Huang; Hongru Wang; Wanjun Zhong 等
+2510.15110	2025-10-16	DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per Token via Reinforcement Learning	Shih-Yang Liu; Xin Dong; Ximing Lu 等
+2602.09591	2026-02-10	On the Optimal Reasoning Length for RL-Trained Language Models	Daisuke Nohara; Taishi Nakamura; Rio Yokota
+2605.00365	2026-05-01	Uniform-Correct Policy Optimization: Breaking RLVR's Indifference to Diversity	Anamika Lochab; Bolian Li; Ruqi Zhang
+2610.02015	2026-10-01	On Language Drift during RLVR Post-Training	Michael Sullivan; Alexander Koller
+1707.06347	2017-07-20	Proximal Policy Optimization Algorithms	John Schulman; Filip Wolski; Prafulla Dhariwal 等
+2212.08073	2022-12-15	Constitutional AI: Harmlessness from AI Feedback	Yuntao Bai; Saurav Kadavath; Sandipan Kundu 等
+1909.08593	2019-09-18	Fine-Tuning Language Models from Human Preferences	Daniel M. Ziegler; Nisan Stiennon; Jeffrey Wu 等
+2009.01325	2020-09-02	Learning to summarize from human feedback	Nisan Stiennon; Long Ouyang; Jeff Wu 等
+2112.09332	2021-12-17	WebGPT: Browser-assisted question-answering with human feedback	Reiichiro Nakano; Jacob Hilton; Suchir Balaji 等
+2310.12036	2023-10-18	A General Theoretical Paradigm to Understand Learning from Human Preferences	Mohammad Gheshlaghi Azar; Mark Rowland; Bilal Piot 等
+2402.01306	2024-02-02	KTO: Model Alignment as Prospect Theoretic Optimization	Kawin Ethayarajh; Winnie Xu; Niklas Muennighoff 等
+2403.07691	2024-03-12	ORPO: Monolithic Preference Optimization without Reference Model	Jiwoo Hong; Noah Lee; James Thorne
+2305.20050	2023-05-31	Let's Verify Step by Step	Hunter Lightman; Vineet Kosaraju; Yura Burda 等
+2401.10020	2024-01-18	Self-Rewarding Language Models	Weizhe Yuan; Richard Yuanzhe Pang; Kyunghyun Cho 等
+2309.00267	2023-09-01	RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback	Harrison Lee; Samrat Phatale; Hassan Mansoor 等
+2404.10719	2024-04-16	Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study	Shusheng Xu; Wei Fu; Jiaxuan Gao 等
+2507.18071	2025-07-24	Group Sequence Policy Optimization	Chujie Zheng; Shixuan Liu; Mingze Li 等
+2409.19256	2024-09-28	HybridFlow: A Flexible and Efficient RLHF Framework	Guangming Sheng; Chi Zhang; Zilingfeng Ye 等
+2405.11143	2024-05-20	OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework	Jian Hu; Xibin Wu; Wei Shen 等
+2308.01320	2023-08-02	DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales	Zhewei Yao; Reza Yazdani Aminabadi; Olatunji Ruwase 等
+2305.11206	2023-05-18	LIMA: Less Is More for Alignment	Chunting Zhou; Pengfei Liu; Puxin Xu 等
+2109.01652	2021-09-03	Finetuned Language Models Are Zero-Shot Learners	Jason Wei; Maarten Bosma; Vincent Y. Zhao 等
+2411.15124	2024-11-22	Tulu 3: Pushing Frontiers in Open Language Model Post-Training	Nathan Lambert; Jacob Morrison; Valentina Pyatkin 等
+2402.14740	2024-02-22	Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs	Arash Ahmadian; Chris Cremer; Matthias Gallé 等
+2501.03262	2025-01-04	REINFORCE++: Stabilizing Critic-Free Policy Optimization with Global Advantage Normalization	Jian Hu; Jason Klein Liu; Haotian Xu 等
+2503.24290	2025-03-31	Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model	Jingcheng Hu; Yinmin Zhang; Qi Han 等
+2312.08935	2023-12-14	Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations	Peiyi Wang; Lei Li; Zhihong Shao 等
+2203.14465	2022-03-28	STaR: Bootstrapping Reasoning With Reasoning	Eric Zelikman; Yuhuai Wu; Jesse Mu 等
+2305.02301	2023-05-03	Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes	Cheng-Yu Hsieh; Chun-Liang Li; Chih-Kuan Yeh 等
+2307.09288	2023-07-18	Llama 2: Open Foundation and Fine-Tuned Chat Models	Hugo Touvron; Louis Martin; Kevin Stone 等
+2310.16944	2023-10-25	Zephyr: Direct Distillation of LM Alignment	Lewis Tunstall; Edward Beeching; Nathan Lambert 等
+2401.01335	2024-01-02	Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models	Zixiang Chen; Yihe Deng; Huizhuo Yuan 等
+2210.10760	2022-10-19	Scaling Laws for Reward Model Overoptimization	Leo Gao; John Schulman; Jacob Hilton
+2402.04792	2024-02-07	Direct Language Model Alignment from Online AI Feedback	Shangmin Guo; Biao Zhang; Tianlin Liu 等

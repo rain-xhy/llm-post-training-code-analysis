@@ -1,0 +1,7 @@
+有效词元数 [20, 6]
+DPO 路径(求和)  chosen=-69.6325 rejected=-20.6346 差=-48.9979
+SimPO 路径(均值) chosen=-3.4816 rejected=-3.4391 差=-0.0425
+DPO  loss(policy==ref)=0.6931 隐式奖励差=0.0000
+DPO  loss(policy 比 ref 把 chosen 提高 1 nat)=0.6444 隐式奖励差=0.1000
+SimPO loss=1.3761 奖励差(β*均值差)=-0.0851  γ/β=0.5 β=2.0
+chosen 缩到 6 词元后：DPO 求和 chosen=-23.7882 (原 -69.6325)；SimPO 均值 chosen=-3.9647 (原 -3.4816)

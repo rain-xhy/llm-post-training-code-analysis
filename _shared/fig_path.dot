@@ -1,0 +1,11 @@
+digraph G {
+  rankdir=TB; nodesep=0.5; ranksep=0.7;
+  node [shape=box, style="rounded,filled", fillcolor="#eef3f9", fontname="Microsoft YaHei", fontsize=14, margin="0.2,0.12"];
+  edge [fontname="Microsoft YaHei", fontsize=12];
+  { rank=same; a [label="论文公式\n与实验设置"]; b [label="固定仓库提交\n记录提交号与日期"]; c [label="从启动脚本出发\n追到配置与数据流"]; }
+  { rank=same; d [label="逐条建立公式对照\n找不到对应行记为差异"]; e [label="函数级验证\n与最小训练实验"]; f [label="归纳偏差机制\n形成收获"]; }
+  a -> b -> c;
+  c -> d;
+  d -> e -> f;
+  e:s -> d:s [label="结果不符时回查", style=dashed];
+}
